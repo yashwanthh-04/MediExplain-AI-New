@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Educational medical glossary for common lab test terms",
+    "sources": [
+      {
+        "name": "MedlinePlus – National Library of Medicine",
+        "url": "https://medlineplus.gov/lab-tests/"
+      },
+      {
+        "name": "MedlinePlus – Medical Encyclopedia",
+        "url": "https://medlineplus.gov/encyclopedia.html"
+      }
+    ],
+    "disclaimer": "This glossary is for educational purposes only and does not constitute medical advice."
+  },
+  "terms": {
+    "hemoglobin": {
+      "term": "Hemoglobin",
+      "abbreviation": "Hgb / Hb",
+      "category": "Complete Blood Count (CBC)",
+      "definition": "A protein in red blood cells that carries oxygen from the lungs to the rest of the body and returns carbon dioxide back to the lungs.",
+      "typical_reference_range": {
+        "adult_male": "13.5–17.5 g/dL",
+        "adult_female": "12.0–15.5 g/dL"
+      },
+      "clinical_significance": "Low levels indicate anaemia; high levels may suggest polycythaemia or dehydration.",
+      "source": "MedlinePlus – Hemoglobin Test",
+      "source_url": "https://medlineplus.gov/lab-tests/hemoglobin-test/"
+    },
+    "rbc": {
+      "term": "Red Blood Cell Count",
+      "abbreviation": "RBC",
+      "category": "Complete Blood Count (CBC)",
+      "definition": "The number of red blood cells per volume of blood. Red blood cells carry oxygen throughout the body.",
+      "typical_reference_range": {
+        "adult_male": "4.5–5.9 × 10⁶/µL",
+        "adult_female": "4.1–5.1 × 10⁶/µL"
+      },
+      "clinical_significance": "Low RBC may indicate anaemia or blood loss; high RBC may indicate polycythaemia.",
+      "source": "MedlinePlus – RBC Count",
+      "source_url": "https://medlineplus.gov/lab-tests/red-blood-cell-rbc-count/"
+    },
+    "wbc": {
+      "term": "White Blood Cell Count",
+      "abbreviation": "WBC",
+      "category": "Complete Blood Count (CBC)",
+      "definition": "The number of white blood cells per volume of blood. White blood cells are part of the immune system and help the body fight infection.",
+      "typical_reference_range": {
+        "adult": "4,500–11,000 cells/µL"
+      },
+      "clinical_significance": "High WBC (leukocytosis) may indicate infection or inflammation; low WBC (leukopenia) may indicate bone marrow problems or autoimmune disease.",
+      "source": "MedlinePlus – WBC Count",
+      "source_url": "https://medlineplus.gov/lab-tests/white-blood-cell-wbc-count/"
+    },
+    "platelets": {
+      "term": "Platelet Count",
+      "abbreviation": "PLT",
+      "category": "Complete Blood Count (CBC)",
+      "definition": "Platelets are tiny blood cells that help the body form clots to stop bleeding.",
+      "typical_reference_range": {
+        "adult": "150,000–400,000 platelets/µL"
+      },
+      "clinical_significance": "Low platelets (thrombocytopenia) increase bleeding risk; high platelets (thrombocytosis) may increase clotting risk.",
+      "source": "MedlinePlus – Platelet Count",
+      "source_url": "https://medlineplus.gov/lab-tests/platelet-count/"
+    },
+    "glucose": {
+      "term": "Blood Glucose",
+      "abbreviation": "Glu / BG",
+      "category": "Metabolic Panel",
+      "definition": "The amount of glucose (sugar) in the blood. Glucose is the main source of energy for the body's cells.",
+      "typical_reference_range": {
+        "fasting": "70–99 mg/dL",
+        "post_meal_2hr": "Less than 140 mg/dL"
+      },
+      "clinical_significance": "High fasting glucose may indicate diabetes or pre-diabetes; low glucose (hypoglycaemia) can cause dizziness and confusion.",
+      "source": "MedlinePlus – Blood Glucose Test",
+      "source_url": "https://medlineplus.gov/lab-tests/blood-glucose-test/"
+    },
+    "cholesterol": {
+      "term": "Total Cholesterol",
+      "abbreviation": "CHOL",
+      "category": "Lipid Panel",
+      "definition": "A waxy, fat-like substance found in all cells of the body. Measured as total cholesterol, which includes LDL, HDL, and VLDL.",
+      "typical_reference_range": {
+        "desirable": "Less than 200 mg/dL",
+        "borderline_high": "200–239 mg/dL",
+        "high": "240 mg/dL and above"
+      },
+      "clinical_significance": "High cholesterol increases the risk of heart disease and stroke.",
+      "source": "MedlinePlus – Cholesterol Levels",
+      "source_url": "https://medlineplus.gov/lab-tests/cholesterol-levels/"
+    },
+    "creatinine": {
+      "term": "Creatinine",
+      "abbreviation": "Cr / Creat",
+      "category": "Kidney Function",
+      "definition": "A waste product produced by normal muscle metabolism, filtered out of the blood by the kidneys. Used to assess kidney function.",
+      "typical_reference_range": {
+        "adult_male": "0.74–1.35 mg/dL",
+        "adult_female": "0.59–1.04 mg/dL"
+      },
+      "clinical_significance": "High creatinine may indicate impaired kidney function or kidney disease.",
+      "source": "MedlinePlus – Creatinine Test",
+      "source_url": "https://medlineplus.gov/lab-tests/creatinine-test/"
+    },
+    "vitamin_d": {
+      "term": "Vitamin D (25-Hydroxyvitamin D)",
+      "abbreviation": "Vit D / 25(OH)D",
+      "category": "Vitamins & Minerals",
+      "definition": "A fat-soluble vitamin essential for calcium absorption, bone health, and immune function. Measured as 25-hydroxyvitamin D in the blood.",
+      "typical_reference_range": {
+        "sufficient": "20–50 ng/mL",
+        "deficient": "Less than 12 ng/mL",
+        "insufficient": "12–19 ng/mL"
+      },
+      "clinical_significance": "Deficiency is linked to bone disorders, weakened immunity, and muscle weakness.",
+      "source": "MedlinePlus – Vitamin D Test",
+      "source_url": "https://medlineplus.gov/lab-tests/vitamin-d-test/"
+    },
+    "tsh": {
+      "term": "Thyroid-Stimulating Hormone",
+      "abbreviation": "TSH",
+      "category": "Thyroid Function",
+      "definition": "A hormone produced by the pituitary gland that stimulates the thyroid gland to produce thyroid hormones (T3 and T4).",
+      "typical_reference_range": {
+        "adult": "0.4–4.0 mIU/L"
+      },
+      "clinical_significance": "High TSH suggests an underactive thyroid (hypothyroidism); low TSH suggests an overactive thyroid (hyperthyroidism).",
+      "source": "MedlinePlus – TSH Test",
+      "source_url": "https://medlineplus.gov/lab-tests/tsh-thyroid-stimulating-hormone-test/"
+    },
+    "hematocrit": {
+      "term": "Hematocrit",
+      "abbreviation": "HCT / Hct",
+      "category": "Complete Blood Count (CBC)",
+      "definition": "The proportion of red blood cells in the total volume of blood, expressed as a percentage.",
+      "typical_reference_range": {
+        "adult_male": "41–53%",
+        "adult_female": "36–46%"
+      },
+      "clinical_significance": "Low hematocrit indicates anaemia; high hematocrit may suggest dehydration or polycythaemia.",
+      "source": "MedlinePlus – Hematocrit Test",
+      "source_url": "https://medlineplus.gov/lab-tests/hematocrit-test/"
+    }
+  }
+}
